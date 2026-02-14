@@ -1,6 +1,6 @@
-# Software Education Website (HTML & CSS)
+# Software Education Platform (HTML & CSS)
 
-A static **software academy promotional website** developed using **HTML5 and CSS3**, presenting course offerings, global campuses, education programs, student testimonials, and contact-focused call-to-action sections within a clean and structured modern layout.
+A static **software education platform promotional website** developed using **HTML5 and CSS3**, presenting course offerings, global campuses, education programs, student testimonials, and contact-focused call-to-action sections within a clean and structured modern layout.
 
 ## Screenshot
 ![](Screen.gif)
