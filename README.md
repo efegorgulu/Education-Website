@@ -4,4 +4,4 @@ Screen<h1> Education Website </h1>
 
 <h2> Screenshot <h2>
 
-![](Screen.gif)# Project2
+![](Screen.gif)
